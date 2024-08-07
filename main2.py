@@ -1,3 +1,6 @@
+
+# lisatty kakkosriville kommentti 7.8.2024 -testaillaan git pushia
+
 import pygame
 
 pygame.init()
